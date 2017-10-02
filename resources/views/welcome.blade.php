@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 by BPEX.CC</div>
+                <div class="title">Laravel 5 by BPEX.CC.</div>
             </div>
         </div>
     </body>
